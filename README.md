@@ -47,9 +47,10 @@
 
 
 ## Quem eu sou <!-- Required -->
-<!-- 
+<!-- Eu sou estudante FrontEnd em Data Science e Ciência Analitica, e também estudei Inteligencia Artificial por um tempo.
 * information about the project 
-* 
+* Trabalhos Univeristários voltados a IA 
+
 * keep it short and sweet
 -->
 
